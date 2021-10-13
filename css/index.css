@@ -281,7 +281,8 @@ footer img {
         font-size: 4vw;
     }
     .main-data div {
-        font-size: 15vw;
+        margin: 10px 0;
+        font-size: 20vw;
     }
     .main-data p {
         font-size: 3.5vw;
