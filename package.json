@@ -2,11 +2,8 @@
   "name": "t-t-dashboard-main-copy",
   "version": "1.0.0",
   "description": "time traking dashboard",
-  "main": "/src/js/index.js",
-  "page":"https://manemaria.github.io/time-tracking-dashboard-main/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "cesar",
   "license": "ISC",
