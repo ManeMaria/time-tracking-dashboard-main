@@ -1,0 +1,17 @@
+{
+  "name": "t-t-dashboard-main-copy",
+  "version": "1.0.0",
+  "description": "time traking dashboard",
+  "main": "/src/js/index.js",
+  "page":"/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "cesar",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0"
+  },
+  "devDependencies": {}
+}
