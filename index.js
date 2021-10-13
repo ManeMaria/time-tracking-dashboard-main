@@ -1,14 +1,14 @@
-import { DATA } from "../../src/data/data.js";
+import { DATA } from "./data/data.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   const ul = document.getElementById("content");
   const srcs = [
-    "../../src/assets/images/icon-work.svg",
-    "../../src/assets/images/icon-play.svg",
-    "../../src/assets/images/icon-study.svg",
-    "../../src/assets/images/icon-exercise.svg",
-    "../../src/assets/images/icon-social.svg",
-    "../../src/assets/images/icon-self-care.svg",
+    "./assets/images/icon-work.svg",
+    "./assets/images/icon-play.svg",
+    "./assets/images/icon-study.svg",
+    "./assets/images/icon-exercise.svg",
+    "./assets/images/icon-social.svg",
+    "./assets/images/icon-self-care.svg",
   ];
   const colorsBackground = [
     "--Light-orange",
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "--Soft-orange",
   ];
 
-  const srcImgEllipsis = "../../src/assets/images/icon-ellipsis.svg";
+  const srcImgEllipsis = "./assets/images/icon-ellipsis.svg";
   let count = 0;
   const lengthData = DATA.length;
 
